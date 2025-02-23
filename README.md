@@ -1,6 +1,5 @@
 ### Hey there, I'm Darius!
-## About me
-- 💻 **Passionate Software Developer** specializing in **Java & Spring**
+- 💻 Passionate Software Developer specializing in Java & Spring
 - ⚡ Never skip opportunity to work on challanging problems
 - 🔥 Always learning and improving
 - 📫 Reach me at darius.songaila1@gmail.com or connect on [[LinkedIn]](https://www.linkedin.com/in/darius-songaila/)
