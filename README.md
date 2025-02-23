@@ -2,7 +2,7 @@
 - 💻 Passionate Software Developer specializing in Java & Spring
 - ⚡ Never skip opportunity to work on challanging problems
 - 🔥 Always learning and improving
-- 📫 Reach me at darius.songaila1@gmail.com or connect on [[LinkedIn]](https://www.linkedin.com/in/darius-songaila/)
+- 📫 Reach me at darius.songaila1@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/darius-songaila/)
 
 ---
 
@@ -32,5 +32,5 @@
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 ---
-
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
 ✨ **Let's connect & build something amazing!**
