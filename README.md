@@ -1,11 +1,9 @@
-# Welcome! 👋
-
-### Hey there! I'm [Your Name] 🚀
-
+### Hey there, I'm Darius!
+## About me
 - 💻 **Passionate Software Developer** specializing in **Java & Spring**
-- ⚡ **Full-Stack Developer** who enjoys working on scalable and efficient solutions
-- 🔥 Always learning and improving to write **clean, maintainable, and high-quality code**
-- 📫 Open to new opportunities & collaborations – Let's build something amazing together!
+- ⚡ Never skip opportunity to work on challanging problems
+- 🔥 Always learning and improving
+- 📫 Reach me at darius.songaila1@gmail.com or connect on [[LinkedIn/GitHub]](https://www.linkedin.com/in/darius-songaila/)
 
 ---
 
